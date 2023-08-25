@@ -26,8 +26,8 @@ Modelo de portfólio pessoal
 .
 ├── index.html
 ├── README.md
-└── css
-    └──  style.css
+├── css
+│   └──  style.css
 └── js
     └──  script.js
 ```
