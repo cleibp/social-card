@@ -24,11 +24,16 @@ Modelo de portfólio pessoal
 
 ```sh
 .
+├── index.html
 ├── README.md
+└── css
+    ├── style.css
+└── js
+    ├── script.js
 ```
 
 ## 👋🏽 DEMO
-[]() 
+[Publicação em Netlify](https://moonlit-torte-7bb89d.netlify.app) 
 
 ## Contatos
 
